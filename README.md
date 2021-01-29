@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![(https://i.imgur.com/PW9GElD.gif]
+![](https://i.imgur.com/PW9GElD.gif)
 
 GIF created with [ScreentoGif](https://www.screentogif.com/).
 
